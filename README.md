@@ -17,5 +17,5 @@ No installation needed.
 ## Usage 
 This is not a function application. It is for test purposes.<br>
 Please view deployed Git Hub [URL](https://ykangarani.github.io/homework-code-refector/)
-<img src="./Website-1.png">
-<img src="./Website-2.png">
+<img src="Website-1.png">
+<img src="Website-2.png">
